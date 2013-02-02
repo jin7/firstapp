@@ -1,0 +1,20 @@
+{
+  "name": "miniblog",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app"
+  },
+  "dependencies": {
+    "express": "3.0.0rc4"
+    , "ejs": "*"
+    , "mongoose": "*"
+    , "hooks": "0.2.1"
+    , "mongodb": "1.2.11"
+    , "ms": "0.1.0"
+    , "sliced": "0.0.3"
+    , "muri": "0.1.0"
+    , "bson": "0.1.6"
+    , "socket.io": "~0.9.11"
+  }
+}
